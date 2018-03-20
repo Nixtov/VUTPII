@@ -1,0 +1,7 @@
+C:\Projects\VS\VUTPII\_3EqualNumbers\bin\Debug\_3EqualNumbers.exe.config
+C:\Projects\VS\VUTPII\_3EqualNumbers\bin\Debug\_3EqualNumbers.exe
+C:\Projects\VS\VUTPII\_3EqualNumbers\bin\Debug\_3EqualNumbers.pdb
+C:\Projects\VS\VUTPII\_3EqualNumbers\obj\Debug\_3EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\VS\VUTPII\_3EqualNumbers\obj\Debug\_3EqualNumbers.exe
+C:\Projects\VS\VUTPII\_3EqualNumbers\obj\Debug\_3EqualNumbers.pdb
+C:\Projects\VS\VUTPII\_3EqualNumbers\obj\Debug\_3EqualNumbers.csprojResolveAssemblyReference.cache
