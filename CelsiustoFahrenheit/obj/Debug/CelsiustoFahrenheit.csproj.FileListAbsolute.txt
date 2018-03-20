@@ -1,0 +1,6 @@
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\bin\Debug\CelsiustoFahrenheit.exe.config
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\bin\Debug\CelsiustoFahrenheit.exe
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\bin\Debug\CelsiustoFahrenheit.pdb
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\obj\Debug\CelsiustoFahrenheit.csproj.CoreCompileInputs.cache
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\obj\Debug\CelsiustoFahrenheit.exe
+C:\Projects\VS\VUTPII\CelsiustoFahrenheit\obj\Debug\CelsiustoFahrenheit.pdb
